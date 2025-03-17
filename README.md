@@ -32,15 +32,3 @@ This project is developed exclusively for **Google Colab**, ensuring that all de
 - **Python**
 
 
-## 🚀 How to Use
-1. **Open** the project notebook in **Google Colab**.
-2. **Upload** the dataset (if not included in the notebook).
-3. **Run** the provided cells to preprocess data, train models, and analyze results.
-4. **Interpret** the output to enhance demand forecasting strategies.
-
-## 👥 Collaborators
-- [Collaborator 1 Name](https://github.com/username1)
-- [Collaborator 2 Name](https://github.com/username2)
-- [Collaborator 3 Name](https://github.com/username3)
-
-
